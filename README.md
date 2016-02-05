@@ -2,7 +2,7 @@ Google Earth API in v3 – A Google Maps JavaScript API utility library
 ==============
 
 A library integrating the Google Earth API with the Google Maps JavaScript API v3, rendering most map overlays appropriately in the 3D plugin.
-![Analytics](https://ga-beacon.appspot.com/UA-12846745-20/js-v3-earth-api/readme?pixel)
+![Analytics](https://maps-ga-beacon.appspot.com/UA-12846745-20/js-v3-earth-api/readme?pixel)
 
 [Reference documentation](https://googlemaps.github.io/js-v3-earth-api/docs/reference.html)
 
