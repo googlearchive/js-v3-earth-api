@@ -1,3 +1,5 @@
+**Please note:** This repository is not currently maintained, and is kept for historical purpose only.
+
 Google Earth API in v3 – A Google Maps JavaScript API utility library
 ==============
 
