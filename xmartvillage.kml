@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Desa Cibeusi.kml</name>
+	<StyleMap id="msn_NCCED_waterfall_icon_400x400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_NCCED_waterfall_icon_400x400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_NCCED_waterfall_icon_400x400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_gate icon">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>etc/gate icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gate icon">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>etc/gate icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_library-icon">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>etc/library-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_village land  icon0">
+		<IconStyle>
+			<color>ff620020</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>etc/village land  icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_land icon">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>etc/land icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_library-icon">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>etc/library-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline5">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c00aa00</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="inline7">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c00aa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline3">
+		<LineStyle>
+			<color>ff590000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>59ff5555</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_rice_icon">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>etc/rice_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_government icon">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>etc/government icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_land icon">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>etc/land icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_rice_icon0">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>etc/rice_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_village land  icon">
+		<IconStyle>
+			<color>ff000044</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>etc/village land  icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_rice_icon1">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>etc/rice_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_PlanningIcon">
+		<IconStyle>
+			<color>40ffffff</color>
+			<scale>2.56667</scale>
+			<Icon>
+				<href>etc/PlanningIcon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>1.2</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_rice_icon1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_rice_icon1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_rice_icon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_rice_icon">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>etc/rice_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_village icon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_village icon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_village icon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_rice_icon1">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>etc/rice_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="inline15">
+		<LineStyle>
+			<color>7f000099</color>
+			<width>1.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_library-icon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_library-icon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_library-icon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_village land  icon0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_village land  icon0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_village land  icon0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff590000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>59ff5555</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="inline11">
+		<LineStyle>
+			<color>ff7faa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c004f00</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_village icon">
+		<IconStyle>
+			<color>ff000043</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>etc/village icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_village land  icon">
+		<IconStyle>
+			<color>ff000044</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>etc/village land  icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="inline18">
+		<LineStyle>
+			<color>ffba3e3e</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>45ff0055</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_NCCED_waterfall_icon_400x400">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>etc/NCCED_waterfall_icon_400x400.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="inline10">
+		<LineStyle>
+			<color>7f000099</color>
+			<width>1.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline4">
+		<LineStyle>
+			<color>ff7faa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c004f00</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_PlanningIcon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_PlanningIcon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_PlanningIcon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_village land  icon0">
+		<IconStyle>
+			<color>ff620020</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>etc/village land  icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_PlanningIcon">
+		<IconStyle>
+			<color>40ffffff</color>
+			<scale>2.2</scale>
+			<Icon>
+				<href>etc/PlanningIcon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff000000</color>
+			<scale>1.2</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="inline14">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c00aa00</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_noicon">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="inline2">
+		<LineStyle>
+			<color>ffba3e3e</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>45ff0055</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_rice_icon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_rice_icon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_rice_icon1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline22">
+		<LineStyle>
+			<color>ff00c160</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c7fffaa</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_NCCED_waterfall_icon_400x400">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>etc/NCCED_waterfall_icon_400x400.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_village icon">
+		<IconStyle>
+			<color>ff000043</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>etc/village icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_land icon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_land icon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_land icon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_rice_icon0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_rice_icon0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_rice_icon0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gate icon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gate icon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gate icon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff00c160</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c7fffaa</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_government icon">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>etc/government icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_rice_icon0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>etc/rice_icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_government icon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_government icon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_government icon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4cff0055</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="inline16">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4cff0055</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="inline9">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c00aa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_village land  icon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_village land  icon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_village land  icon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>:/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>:/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Folder>
+			<name>Sightseeing Tour</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Make sure 3D Buildings <br> layer is checked
+    <]]></description>
+			<Style id="sn_noicon">
+				<IconStyle>
+					<Icon>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>00ffffff</color>
+				</LabelStyle>
+			</Style>
+			<gx:Tour>
+				<name>Start tour here</name>
+				<visibility>0</visibility>
+				<gx:Playlist>
+					<gx:FlyTo>
+						<gx:duration>7</gx:duration>
+						<LookAt>
+							<longitude>2.291433408790398</longitude>
+							<latitude>48.86046599047212</latitude>
+							<altitude>0</altitude>
+							<heading>-44.78443344916974</heading>
+							<tilt>84.50456468378914</tilt>
+							<range>1237.092264232066</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>4</gx:duration>
+</gx:Wait>
+					<gx:FlyTo>
+						<gx:duration>5</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>2.292516819664192</longitude>
+							<latitude>48.85698932280409</latitude>
+							<altitude>0</altitude>
+							<heading>-133.4483170172488</heading>
+							<tilt>70.63136956830182</tilt>
+							<range>969.7156365886258</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>6</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>2.295838863036321</longitude>
+							<latitude>48.85722765839494</latitude>
+							<altitude>0</altitude>
+							<heading>144.8330905543111</heading>
+							<tilt>82.11044392463096</tilt>
+							<range>1280.086026374546</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+					<gx:TourControl>
+					</gx:TourControl>
+					<gx:FlyTo>
+						<gx:duration>7</gx:duration>
+						<LookAt>
+							<longitude>-43.20953574843956</longitude>
+							<latitude>-22.950407157676</latitude>
+							<altitude>0</altitude>
+							<heading>-134.4620862063529</heading>
+							<tilt>58.47824597790541</tilt>
+							<range>518.7551361289096</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>3</gx:duration>
+</gx:Wait>
+					<gx:FlyTo>
+						<gx:duration>6</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-43.21454496440098</longitude>
+							<latitude>-22.95360604377341</latitude>
+							<altitude>0</altitude>
+							<heading>-120.57288800332</heading>
+							<tilt>65.17521407189773</tilt>
+							<range>660</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>6</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-43.21660160057429</longitude>
+							<latitude>-22.94806206144405</latitude>
+							<altitude>0</altitude>
+							<heading>-57.54538440420448</heading>
+							<tilt>80.00485701436207</tilt>
+							<range>1000</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>6</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-43.20919504667657</longitude>
+							<latitude>-22.95016892675761</latitude>
+							<altitude>0</altitude>
+							<heading>43.40129179538381</heading>
+							<tilt>66.44869267970699</tilt>
+							<range>400</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+					<gx:TourControl>
+					</gx:TourControl>
+					<gx:FlyTo>
+						<gx:duration>8</gx:duration>
+						<LookAt>
+							<longitude>-111.825259364926</longitude>
+							<latitude>36.13629032059509</latitude>
+							<altitude>0</altitude>
+							<heading>-122.0385885563142</heading>
+							<tilt>71.25665521441707</tilt>
+							<range>2881.126209803783</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>5</gx:duration>
+</gx:Wait>
+					<gx:FlyTo>
+						<gx:duration>10</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-111.8178193912654</longitude>
+							<latitude>36.12220415999125</latitude>
+							<altitude>0</altitude>
+							<heading>-20.55049931075685</heading>
+							<tilt>70.46152747623586</tilt>
+							<range>6923.518337176915</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+					<gx:TourControl>
+					</gx:TourControl>
+					<gx:FlyTo>
+						<gx:duration>8</gx:duration>
+						<LookAt>
+							<longitude>151.2122001847845</longitude>
+							<latitude>-33.85543600090152</latitude>
+							<altitude>0</altitude>
+							<heading>-136.7378847758026</heading>
+							<tilt>68.87493344592141</tilt>
+							<range>1332.179816629172</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>5</gx:duration>
+</gx:Wait>
+					<gx:FlyTo>
+						<gx:duration>8</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>151.2102747218619</longitude>
+							<latitude>-33.86562371282643</latitude>
+							<altitude>0</altitude>
+							<heading>-100.9504733403397</heading>
+							<tilt>61.69903309250663</tilt>
+							<range>1157.567447390761</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>8</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>151.2084567507541</longitude>
+							<latitude>-33.8719709424179</latitude>
+							<altitude>0</altitude>
+							<heading>-30.97913448260641</heading>
+							<tilt>73.81737727550399</tilt>
+							<range>1804.653308065182</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>1</gx:duration>
+</gx:Wait>
+					<gx:TourControl>
+					</gx:TourControl>
+					<gx:FlyTo>
+						<gx:duration>7</gx:duration>
+						<LookAt>
+							<longitude>12.45863229278517</longitude>
+							<latitude>41.90238356414683</latitude>
+							<altitude>0</altitude>
+							<heading>-88.09821473983064</heading>
+							<tilt>72.55531058146758</tilt>
+							<range>545.5229608700497</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>2</gx:duration>
+</gx:Wait>
+					<gx:FlyTo>
+						<gx:duration>4</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>12.45576850829061</longitude>
+							<latitude>41.90259432723413</latitude>
+							<altitude>0</altitude>
+							<heading>-45.63719485912762</heading>
+							<tilt>67.45254428277359</tilt>
+							<range>440.4364927688193</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>5</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>12.45521415868397</longitude>
+							<latitude>41.90223391472421</latitude>
+							<altitude>0</altitude>
+							<heading>62.2555896882265</heading>
+							<tilt>56.44844484217481</tilt>
+							<range>660</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>5</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>12.45542893820797</longitude>
+							<latitude>41.90247136879627</latitude>
+							<altitude>0</altitude>
+							<heading>143.1756044668531</heading>
+							<tilt>54.3757116252694</tilt>
+							<range>630.2289324677029</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>4</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>12.45514725466031</longitude>
+							<latitude>41.90208944848824</latitude>
+							<altitude>0</altitude>
+							<heading>-126.2904640924972</heading>
+							<tilt>62.98553010498054</tilt>
+							<range>973.0823093362777</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+					<gx:TourControl>
+					</gx:TourControl>
+					<gx:FlyTo>
+						<gx:duration>9</gx:duration>
+						<LookAt>
+							<longitude>-0.120788371613878</longitude>
+							<latitude>51.50501055442484</latitude>
+							<altitude>0</altitude>
+							<heading>-26.35029775803154</heading>
+							<tilt>73.05226006937514</tilt>
+							<range>454.4339921427415</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>4</gx:duration>
+</gx:Wait>
+					<gx:FlyTo>
+						<gx:duration>3</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-0.1218913821474976</longitude>
+							<latitude>51.50305583632267</latitude>
+							<altitude>0</altitude>
+							<heading>-104.133103977011</heading>
+							<tilt>62.33871582343829</tilt>
+							<range>464.9005677104844</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>3</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-0.1210052471346601</longitude>
+							<latitude>51.50193262427588</latitude>
+							<altitude>0</altitude>
+							<heading>-148.4647519019507</heading>
+							<tilt>62.49820488326289</tilt>
+							<range>467.9437060050972</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+					<gx:TourControl>
+					</gx:TourControl>
+					<gx:FlyTo>
+						<gx:duration>10</gx:duration>
+						<LookAt>
+							<longitude>-49.94775814514536</longitude>
+							<latitude>41.72923316238139</latitude>
+							<altitude>0</altitude>
+							<heading>-22.16745101595302</heading>
+							<tilt>58.51118653734172</tilt>
+							<range>15751.03428612136</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>3</gx:duration>
+</gx:Wait>
+					<gx:FlyTo>
+						<gx:duration>3</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-49.95064833173971</longitude>
+							<latitude>41.73675356498745</latitude>
+							<altitude>0</altitude>
+							<heading>-22.0614952772804</heading>
+							<tilt>58.41962787655594</tilt>
+							<range>3785.050923503806</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>3</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-49.94963603456613</longitude>
+							<latitude>41.73044100800762</latitude>
+							<altitude>0</altitude>
+							<heading>-21.98561736233518</heading>
+							<tilt>59.14449309551124</tilt>
+							<range>1298.527712044066</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>3</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-49.9476723120594</longitude>
+							<latitude>41.73049451623312</latitude>
+							<altitude>0</altitude>
+							<heading>39.17295296812819</heading>
+							<tilt>67.43152193490242</tilt>
+							<range>877.6242516424816</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>3</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-49.94932550499109</longitude>
+							<latitude>41.73351808554008</latitude>
+							<altitude>0</altitude>
+							<heading>62.89000376535781</heading>
+							<tilt>76.83720128724194</tilt>
+							<range>184.8131750740089</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>3</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-49.94863305687194</longitude>
+							<latitude>41.7346904804198</latitude>
+							<altitude>0</altitude>
+							<heading>162.2375295003862</heading>
+							<tilt>70.14149365018284</tilt>
+							<range>231.5863465484218</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+					<gx:TourControl>
+					</gx:TourControl>
+					<gx:FlyTo>
+						<gx:duration>14</gx:duration>
+						<LookAt>
+							<longitude>116.3908088768237</longitude>
+							<latitude>39.91379916102216</latitude>
+							<altitude>0</altitude>
+							<heading>-1.138855209962087</heading>
+							<tilt>63.78082439241467</tilt>
+							<range>804.0076519351231</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>4</gx:duration>
+</gx:Wait>
+					<gx:FlyTo>
+						<gx:duration>4</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>116.3902022277641</longitude>
+							<latitude>39.91548590997697</latitude>
+							<altitude>0</altitude>
+							<heading>36.54261588920597</heading>
+							<tilt>53.23349045734695</tilt>
+							<range>1284.830404072757</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>5</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>116.3894381947359</longitude>
+							<latitude>39.91647028464102</latitude>
+							<altitude>0</altitude>
+							<heading>109.9844905127141</heading>
+							<tilt>77.81184480203503</tilt>
+							<range>434.044223900926</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+					<gx:TourControl>
+					</gx:TourControl>
+					<gx:FlyTo>
+						<gx:duration>13</gx:duration>
+						<LookAt>
+							<longitude>138.7818265722904</longitude>
+							<latitude>35.34063009043844</latitude>
+							<altitude>0</altitude>
+							<heading>-62.46343745766319</heading>
+							<tilt>67.6064862659656</tilt>
+							<range>7131.323646428426</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>2</gx:duration>
+</gx:Wait>
+					<gx:FlyTo>
+						<gx:duration>5</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>138.732831233965</longitude>
+							<latitude>35.34631761100981</latitude>
+							<altitude>0</altitude>
+							<heading>8.54680114884243</heading>
+							<tilt>63.6005664023261</tilt>
+							<range>4599.456156339281</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>5</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>138.7117696613163</longitude>
+							<latitude>35.35924486897797</latitude>
+							<altitude>0</altitude>
+							<heading>77.97081549606358</heading>
+							<tilt>65.19409798035845</tilt>
+							<range>8748.160445429821</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+					<gx:TourControl>
+					</gx:TourControl>
+					<gx:FlyTo>
+						<gx:duration>8</gx:duration>
+						<LookAt>
+							<longitude>-122.0820910773159</longitude>
+							<latitude>37.41931975444069</latitude>
+							<altitude>0</altitude>
+							<heading>-25.52915008078697</heading>
+							<tilt>60.16567815354701</tilt>
+							<range>421.7487119859438</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>3</gx:duration>
+</gx:Wait>
+					<gx:FlyTo>
+						<gx:duration>3</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-122.0828356355515</longitude>
+							<latitude>37.41970831813314</latitude>
+							<altitude>0</altitude>
+							<heading>-48.22990007554524</heading>
+							<tilt>77.38490900520242</tilt>
+							<range>281.1183154577782</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>3</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-122.0837867591564</longitude>
+							<latitude>37.42075190046511</latitude>
+							<altitude>0</altitude>
+							<heading>-48.20230753378853</heading>
+							<tilt>77.38416695218248</tilt>
+							<range>196.354133688462</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>4</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-122.0845501159868</longitude>
+							<latitude>37.4218699663417</latitude>
+							<altitude>0</altitude>
+							<heading>-69.56777763392701</heading>
+							<tilt>70.05009898715139</tilt>
+							<range>179.6078491941072</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>4</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-122.0865370283483</longitude>
+							<latitude>37.42216403229413</latitude>
+							<altitude>0</altitude>
+							<heading>-76.24554149800839</heading>
+							<tilt>66.0643204358401</tilt>
+							<range>186.138599501638</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>4</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-122.0855609773483</longitude>
+							<latitude>37.42182792652437</latitude>
+							<altitude>0</altitude>
+							<heading>136.7389026227908</heading>
+							<tilt>53.07129205583576</tilt>
+							<range>205.5505645659833</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:FlyTo>
+						<gx:duration>4</gx:duration>
+						<gx:flyToMode>smooth</gx:flyToMode>
+						<LookAt>
+							<longitude>-122.0857031347691</longitude>
+							<latitude>37.42169546784739</latitude>
+							<altitude>0</altitude>
+							<heading>51.91673446403121</heading>
+							<tilt>50.75900171716816</tilt>
+							<range>232.187882698068</range>
+							<altitudeMode>relativeToGround</altitudeMode>
+						</LookAt>
+					</gx:FlyTo>
+					<gx:Wait><gx:duration>0.6</gx:duration>
+</gx:Wait>
+					<gx:TourControl>
+					</gx:TourControl>
+				</gx:Playlist>
+			</gx:Tour>
+			<Placemark id="eiffel">
+				<name>The Eiffel Tower</name>
+				<visibility>0</visibility>
+				<description>Located in Paris, France</description>
+				<LookAt>
+					<longitude>2.295967680887427</longitude>
+					<latitude>48.85780097266282</latitude>
+					<altitude>0</altitude>
+					<heading>-42.91158279440752</heading>
+					<tilt>58.51308219868477</tilt>
+					<range>798.4686453648802</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#sn_noicon</styleUrl>
+				<Point>
+					<coordinates>2.295967680887427,48.85780097266282,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="christ">
+				<name>Christ the Redeemer</name>
+				<visibility>0</visibility>
+				<description>Located in Rio, Brazil</description>
+				<LookAt>
+					<longitude>-43.20953574843956</longitude>
+					<latitude>-22.950407157676</latitude>
+					<altitude>0</altitude>
+					<heading>-134.4620862063529</heading>
+					<tilt>58.47824597790541</tilt>
+					<range>518.7551361289096</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#sn_noicon</styleUrl>
+				<Point>
+					<coordinates>-43.20953574843956,-22.95040715767599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="canyon">
+				<name>The Grand Canyon</name>
+				<visibility>0</visibility>
+				<description>Located in Arizona, USA</description>
+				<LookAt>
+					<longitude>-111.839335188889</longitude>
+					<latitude>36.14936973429993</latitude>
+					<altitude>0</altitude>
+					<heading>-102.4264123877612</heading>
+					<tilt>60.36812941371167</tilt>
+					<range>17029.89256740801</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#sn_noicon</styleUrl>
+				<Point>
+					<coordinates>-111.839335188889,36.14936973429993,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="sydney">
+				<name>Sydney</name>
+				<visibility>0</visibility>
+				<description>New South Wales, Australia</description>
+				<LookAt>
+					<longitude>151.2122001847845</longitude>
+					<latitude>-33.85543600090152</latitude>
+					<altitude>0</altitude>
+					<heading>-136.7378847758026</heading>
+					<tilt>68.87493344592141</tilt>
+					<range>1332.179816629172</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#sn_noicon</styleUrl>
+				<Point>
+					<coordinates>151.2122001847845,-33.85543600090152,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="peters">
+				<name>St Peters Basilica</name>
+				<visibility>0</visibility>
+				<description>Located in Vatican City</description>
+				<LookAt>
+					<longitude>12.45863229278517</longitude>
+					<latitude>41.90238356414683</latitude>
+					<altitude>0</altitude>
+					<heading>-88.09821473983064</heading>
+					<tilt>72.55531058146758</tilt>
+					<range>545.5229608700497</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#sn_noicon</styleUrl>
+				<Point>
+					<coordinates>12.45863229278517,41.90238356414683,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="london">
+				<name>The London Eye</name>
+				<visibility>0</visibility>
+				<description>Located in London, England</description>
+				<LookAt>
+					<longitude>-0.1208037863755851</longitude>
+					<latitude>51.50295856070689</latitude>
+					<altitude>0</altitude>
+					<heading>-119.6219029975624</heading>
+					<tilt>54.36628262074456</tilt>
+					<range>667.3903819080039</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#sn_noicon</styleUrl>
+				<Point>
+					<coordinates>-0.1208037863755851,51.50295856070689,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="titanic">
+				<name>The Titanic</name>
+				<visibility>0</visibility>
+				<description>Located in the North Atlantic Ocean</description>
+				<LookAt>
+					<longitude>-49.94881009327763</longitude>
+					<latitude>41.72834170105288</latitude>
+					<altitude>0</altitude>
+					<heading>46.46743078657357</heading>
+					<tilt>59.42261846268553</tilt>
+					<range>858.0285123602595</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#sn_noicon</styleUrl>
+				<Point>
+					<coordinates>-49.94881009327763,41.72834170105288,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="forbidden">
+				<name>The Forbidden City</name>
+				<visibility>0</visibility>
+				<description>Located in China</description>
+				<LookAt>
+					<longitude>116.3908088768237</longitude>
+					<latitude>39.91379916102216</latitude>
+					<altitude>0</altitude>
+					<heading>-1.138855209962087</heading>
+					<tilt>63.78082439241467</tilt>
+					<range>804.0076519351231</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#sn_noicon</styleUrl>
+				<Point>
+					<coordinates>116.3908088768236,39.91379916102216,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="fuji">
+				<name>Mount Fuji</name>
+				<visibility>0</visibility>
+				<description>Located near Tokyo, Japan</description>
+				<LookAt>
+					<longitude>138.7818265722904</longitude>
+					<latitude>35.34063009043844</latitude>
+					<altitude>0</altitude>
+					<heading>-62.46343745766319</heading>
+					<tilt>67.6064862659656</tilt>
+					<range>7131.323646428426</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#sn_noicon</styleUrl>
+				<Point>
+					<coordinates>138.7818265722904,35.34063009043844,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="google">
+				<name>Google Headquarters</name>
+				<visibility>0</visibility>
+				<description>Located in Mountain View, California</description>
+				<LookAt>
+					<longitude>-122.0857031353512</longitude>
+					<latitude>37.42169546752972</latitude>
+					<altitude>0</altitude>
+					<heading>51.91673446364886</heading>
+					<tilt>50.75900171660835</tilt>
+					<range>232.1878066927673</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+				</LookAt>
+				<styleUrl>#sn_noicon</styleUrl>
+				<Point>
+					<coordinates>-122.0857031353512,37.42169546752972,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>Kantor Desa Cibeusi</name>
+			<LookAt>
+				<longitude>107.675010954926</longitude>
+				<latitude>-6.747280995829324</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005694803722239703</heading>
+				<tilt>50.01250699647122</tilt>
+				<range>680.4317326589589</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_government icon</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>107.675010954926,-6.747280995829324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Curug Cibareubeuy</name>
+			<description>Milik : Perhutani</description>
+			<LookAt>
+				<longitude>107.6649351549947</longitude>
+				<latitude>-6.763027162393657</latitude>
+				<altitude>0</altitude>
+				<heading>-70.39423562513326</heading>
+				<tilt>60.32926268670967</tilt>
+				<range>152.0180959250535</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_NCCED_waterfall_icon_400x400</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>107.6649351549947,-6.763027162393657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kampung Senyum</name>
+			<description>Milik: Bpk. Ocid
+Luas Area : 0.72 Hektare</description>
+			<LookAt>
+				<longitude>107.6656209051436</longitude>
+				<latitude>-6.762052146441474</latitude>
+				<altitude>0</altitude>
+				<heading>0.001463166478007766</heading>
+				<tilt>57.35080009886507</tilt>
+				<range>255.6475890591252</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_village icon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>107.6656209051436,-6.762052146441473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lahan warga</name>
+			<description>Milik          : Warga
+Luas Area: 32.4 Hektare</description>
+			<LookAt>
+				<longitude>107.675016150141</longitude>
+				<latitude>-6.754686784089004</latitude>
+				<altitude>0</altitude>
+				<heading>-3.130832394580281</heading>
+				<tilt>50.16667018915329</tilt>
+				<range>536.3041941867349</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_rice_icon0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>107.6749958334959,-6.754117953508568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lahan Warga (pesawahan)</name>
+			<styleUrl>#inline8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.6674983972878,-6.761421464370843,0 107.6683223088105,-6.761396354440627,0 107.6687869406763,-6.761266033208169,0 107.6690086118196,-6.760946930006231,0 107.6691424219087,-6.760720464733947,0 107.6693165285193,-6.760463207856146,0 107.6694652278857,-6.760111256114286,0 107.6693852425915,-6.759950456341311,0 107.6695917215084,-6.759393850566064,0 107.6700477645211,-6.759123869686287,0 107.670164794189,-6.758825194943518,0 107.6704101208822,-6.758483513078112,0 107.6704956399709,-6.758328462394376,0 107.6706889469929,-6.758033303148986,0 107.6707533625446,-6.757881056364731,0 107.6709099717227,-6.757694683486607,0 107.6711336900145,-6.757519778541734,0 107.6713925335857,-6.757459689144119,0 107.6716272087277,-6.7573860739556,0 107.6719010639265,-6.757274091868101,0 107.6719930336866,-6.75710322695774,0 107.6719740682144,-6.756946441692482,0 107.6719598080029,-6.756828555472791,0 107.6724004861893,-6.757032298537226,0 107.6725719587035,-6.757376749759175,0 107.6727043337917,-6.757644160300689,0 107.6728886917506,-6.758041260075105,0 107.6729103644939,-6.758383769790541,0 107.6729261844772,-6.758708000806088,0 107.6729741485257,-6.759029987690058,0 107.672896681427,-6.759356149623281,0 107.6725512633209,-6.759909687062731,0 107.6728274658862,-6.760379125172751,0 107.6731726484478,-6.760429679469567,0 107.6734248813051,-6.760427082630423,0 107.6735270391567,-6.760220923584528,0 107.6736030894183,-6.760003265639769,0 107.673791532889,-6.75985291256036,0 107.6739169881186,-6.759514414316815,0 107.6742190826105,-6.759135244493077,0 107.6743660442061,-6.758797448761963,0 107.6745285475617,-6.758438407734289,0 107.6741206323126,-6.75841998018732,0 107.6738896211265,-6.758353538682736,0 107.6737458653474,-6.758094652120441,0 107.6736441318026,-6.757877025754291,0 107.6737069920668,-6.757655391479814,0 107.6736469693489,-6.757443710485362,0 107.6736057477725,-6.75715239806899,0 107.6735385086385,-6.756843173245082,0 107.6734873466294,-6.756622961522174,0 107.6738797260821,-6.756345906769688,0 107.6741739856225,-6.756159178040145,0 107.6743265655215,-6.755887228924863,0 107.6743458044818,-6.755720811155321,0 107.6744881954138,-6.755449855967135,0 107.6745412932174,-6.755279818932151,0 107.6745985379491,-6.755146613990737,0 107.6748907487425,-6.755251049440274,0 107.6750768374602,-6.755270552347553,0 107.6753501228691,-6.755213237311024,0 107.6755444395547,-6.7550736111065,0 107.6756877625164,-6.754939586488063,0 107.675688083742,-6.754780863126673,0 107.6759352589684,-6.75474736844767,0 107.6762309878162,-6.754780244053968,0 107.6760128299739,-6.75520956340957,0 107.6761089317299,-6.755520076046057,0 107.6762789010143,-6.755749448954437,0 107.6762696596192,-6.755520728027072,0 107.6764090039411,-6.755308645019689,0 107.6765395294769,-6.755113643803534,0 107.6768142757723,-6.755057267714843,0 107.6770518343954,-6.75495545363092,0 107.6770238269892,-6.754809086951126,0 107.6768775782066,-6.754719732096415,0 107.6767080066032,-6.754613069732199,0 107.6765205149272,-6.754487381030216,0 107.6764607747069,-6.754352879195278,0 107.676797756773,-6.754302251411326,0 107.6770233557655,-6.754257700212333,0 107.6771183089374,-6.754169110189516,0 107.6771083473207,-6.753899719078302,0 107.677291806503,-6.753786424614262,0 107.677546421662,-6.753463720211563,0 107.6775785968221,-6.753295763109533,0 107.6774611075224,-6.753051042647157,0 107.67761046749,-6.752760225559071,0 107.6778360269536,-6.752501833692047,0 107.6780303244499,-6.752210654561694,0 107.6777072016855,-6.751994256194859,0 107.6774938138078,-6.7517452028458,0 107.6773598898447,-6.751525524032076,0 107.6771048363992,-6.751401054234315,0 107.6768194944389,-6.751619689847652,0 107.6767348722406,-6.75189258052326,0 107.676461733234,-6.752197167532003,0 107.6763458569481,-6.752104125448249,0 107.676304115842,-6.751928970145536,0 107.676058165834,-6.751939239199487,0 107.6758188787674,-6.7519069816786,0 107.6757686030409,-6.75178765303693,0 107.6755830608712,-6.75183419134534,0 107.6752716553761,-6.752134389434898,0 107.6749612973635,-6.752357714152689,0 107.6747098323278,-6.752662191397649,0 107.6745616634417,-6.752545693071038,0 107.6743196971772,-6.752599945520221,0 107.6740831079275,-6.752656163679312,0 107.6738754588825,-6.752647987600244,0 107.6736791651981,-6.752553735212427,0 107.6735581079805,-6.752410163592033,0 107.6733781229533,-6.752374702273451,0 107.6730866672856,-6.752540591673228,0 107.6729513174102,-6.75274268715931,0 107.6728293361785,-6.753032693654994,0 107.6728180348782,-6.753313453891937,0 107.6726777150224,-6.753597182892907,0 107.6727411240498,-6.753912274307046,0 107.6729488801341,-6.754175876888456,0 107.6731765063078,-6.754074942617624,0 107.6733959156266,-6.753972473793411,0 107.6736609117562,-6.753930323952476,0 107.6739005171224,-6.753994576458284,0 107.6741329759222,-6.754142298456036,0 107.6738139149381,-6.754255367235275,0 107.6736682133771,-6.75424752150913,0 107.6735828234586,-6.754467782229419,0 107.6734104736879,-6.754784718974254,0 107.6731751991781,-6.754981118748395,0 107.6730121415162,-6.755305046122517,0 107.6728222126736,-6.755619265862348,0 107.6724676898102,-6.755736824810796,0 107.6721316283112,-6.75575503280843,0 107.671864526959,-6.755743752942122,0 107.6715352364584,-6.75576249103081,0 107.6712773993491,-6.755940940412361,0 107.6708750555905,-6.756310206424724,0 107.6705775591436,-6.756546627008861,0 107.6703796788104,-6.756693672741838,0 107.6700675211801,-6.756880200241122,0 107.6697849028051,-6.757093298337996,0 107.6695811336649,-6.757021735916805,0 107.6694423708981,-6.756939084920322,0 107.6692679601074,-6.756909022088844,0 107.6690648106984,-6.756858479951959,0 107.6691048546104,-6.757105545981337,0 107.6692497779189,-6.757240455831228,0 107.6695275744545,-6.757375852823435,0 107.6697621581836,-6.757411799464799,0 107.6700036481718,-6.757374109767394,0 107.6703258079523,-6.757371266996193,0 107.6706317697571,-6.757389146039764,0 107.6702650928074,-6.757642326199888,0 107.66989448353,-6.757822047198627,0 107.669660414,-6.75785880527598,0 107.6694070060022,-6.758091300518045,0 107.6692577562313,-6.758454014115658,0 107.6688955519195,-6.758880509500786,0 107.6686703649185,-6.759011077305619,0 107.6687069631289,-6.759372522352779,0 107.6686245387561,-6.759569043817679,0 107.6685477650228,-6.759811381095999,0 107.6685577149697,-6.760019957429799,0 107.6687509839921,-6.760249398982101,0 107.668850300821,-6.760501315866706,0 107.668392675569,-6.760593574318228,0 107.6680622466844,-6.760652373497758,0 107.667761157481,-6.760820048384652,0 107.6675977419897,-6.761062022906093,0 107.6674983972878,-6.761421464370843,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Dusun 1</name>
+			<styleUrl>#inline21</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.6779896241446,-6.748302323884589,0 107.6779016064829,-6.748351349193798,0 107.6779020560125,-6.748510596894803,0 107.6779679005701,-6.748675594217053,0 107.6779495110618,-6.748782194311565,0 107.6779225153618,-6.74891299879681,0 107.6778814826168,-6.749062529136976,0 107.6777929361968,-6.749115351484318,0 107.6777348296616,-6.749164101436273,0 107.6776576272089,-6.749228703416874,0 107.6776033095445,-6.749340744629992,0 107.6776284885586,-6.749483314952159,0 107.6776486829899,-6.74956694605,0 107.6776330457471,-6.749630740401758,0 107.6776896829067,-6.749770595389427,0 107.6777952928498,-6.749815207070636,0 107.6778073739598,-6.749888895790317,0 107.6777156695195,-6.749885847658267,0 107.6776093965289,-6.749959760264097,0 107.677537188348,-6.749956602012447,0 107.677473063631,-6.749990459692398,0 107.6774151637133,-6.750092231377856,0 107.6773901971355,-6.750260345532223,0 107.6774544533899,-6.750414856530321,0 107.6775412322544,-6.750448321896496,0 107.6776475990398,-6.750485083326105,0 107.6777188849924,-6.750503202099673,0 107.6777806281928,-6.750596083122746,0 107.6778617389569,-6.750673374311656,0 107.6779500217376,-6.750692622957781,0 107.6780459906431,-6.750674202481924,0 107.6780998369494,-6.750585052958228,0 107.6781268022032,-6.750382016156598,0 107.6781902873356,-6.75029217066104,0 107.6782203462017,-6.750338151272159,0 107.6782933336267,-6.750376408720655,0 107.6783760280684,-6.750427840257451,0 107.6784641380592,-6.75044349752181,0 107.6784828027257,-6.750359022828787,0 107.6784128649933,-6.750339880312568,0 107.6783964535955,-6.750256048601719,0 107.678497002348,-6.750271333105281,0 107.6785790051408,-6.750223869632116,0 107.6786232156474,-6.750206601535789,0 107.6786914066901,-6.750142946874712,0 107.6787626804738,-6.750183866159361,0 107.6788478192657,-6.750223348775929,0 107.6789176940803,-6.750182517792026,0 107.6789635469224,-6.750127528375774,0 107.6788475231396,-6.7500884710342,0 107.678763942779,-6.749930465306788,0 107.67871495826,-6.749834241087804,0 107.6786600218688,-6.7497711831078,0 107.6786015239075,-6.749647959467303,0 107.678556172688,-6.74949234271584,0 107.6785339936929,-6.749379162698073,0 107.6785295445307,-6.749285064801417,0 107.6785169429484,-6.749143626022841,0 107.6784934214611,-6.749029947991828,0 107.6784373388562,-6.748892858369731,0 107.6783815337779,-6.748790672609222,0 107.6783377519038,-6.74869942268601,0 107.6782506340626,-6.748637532946994,0 107.6782151210889,-6.748517969417507,0 107.678149107168,-6.748505813158494,0 107.6780906219936,-6.748377183103532,0 107.6779896241446,-6.748302323884589,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RW 1</name>
+			<description>Luas Area: 2.15
+Penduduk:</description>
+			<LookAt>
+				<longitude>107.6783540629002</longitude>
+				<latitude>-6.749130387447469</latitude>
+				<altitude>0</altitude>
+				<heading>-3.131224863590953</heading>
+				<tilt>50.16712541903669</tilt>
+				<range>602.2950454056363</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_village land  icon0</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>107.6781377042724,-6.749647227626118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kampung Senyum</name>
+			<styleUrl>#inline17</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.6657927818386,-6.761816011272847,0 107.6656573425733,-6.761856143982021,0 107.6654779525439,-6.761853096702363,0 107.6652975969294,-6.761920125008096,0 107.6652503694245,-6.762087282522817,0 107.6652433893572,-6.762198586507633,0 107.6652511876412,-6.762337795285433,0 107.6651970228179,-6.762487928489021,0 107.6652215922377,-6.762599132189007,0 107.6653992635361,-6.762661271368586,0 107.6655612596559,-6.762666409360193,0 107.6657431928054,-6.762602634724561,0 107.6658684674244,-6.762508650083021,0 107.6659379679126,-6.762356244081053,0 107.6660332491433,-6.762274039391772,0 107.6660393625288,-6.762175198594392,0 107.6660749126959,-6.762076661613804,0 107.6661081203426,-6.761949249877852,0 107.6660641074784,-6.761834660872054,0 107.6657927818386,-6.761816011272847,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Desa Cibeusi</name>
+			<styleUrl>#inline6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.6720137132513,-6.739803701788628,0 107.6714921146853,-6.740270320997303,0 107.6712947952378,-6.740529469874617,0 107.6710432828854,-6.740655373467939,0 107.6705875175461,-6.740852589328444,0 107.6699009930144,-6.741155216992108,0 107.6694370134256,-6.741347700869659,0 107.6689071748071,-6.741747819735778,0 107.6689264323857,-6.742120978079991,0 107.6689535159367,-6.742771323029814,0 107.6691326798039,-6.742724564311512,0 107.6695664208227,-6.743002509414228,0 107.6700140389489,-6.742907496774447,0 107.670543042951,-6.742841645734767,0 107.6711166184171,-6.742928097766027,0 107.6714008101676,-6.743103372795745,0 107.6715661660551,-6.743526643169912,0 107.6715885880397,-6.743857935631416,0 107.671337402748,-6.743880033218812,0 107.6709606022199,-6.743775579248709,0 107.6705581429211,-6.743956948186003,0 107.6702682335148,-6.744229529244354,0 107.6700626260085,-6.744533182994347,0 107.6699298067113,-6.74471905496681,0 107.6700679041509,-6.744975157697527,0 107.6702481140349,-6.745106528617773,0 107.6704558411568,-6.744949775044416,0 107.6708605428281,-6.744952998562497,0 107.6707929155581,-6.745157595787265,0 107.6704425236332,-6.745541968377725,0 107.6707634358302,-6.745720674393649,0 107.671110400031,-6.745662427814191,0 107.6712975551532,-6.74538217587054,0 107.6715631730039,-6.745813962687795,0 107.6715656816641,-6.746268467113697,0 107.6719516605683,-6.746539541638238,0 107.6722184133622,-6.746504157902135,0 107.6725340844624,-6.746699989790229,0 107.6726803407019,-6.746406170453003,0 107.6729322625975,-6.746253334323045,0 107.6732471703793,-6.74643669693785,0 107.6732745136065,-6.74663444024829,0 107.6732963566041,-6.74689423673806,0 107.6732933339823,-6.747097654375895,0 107.6732504014949,-6.747351807418636,0 107.6731341555619,-6.747795632218997,0 107.6729721319722,-6.747996634526738,0 107.6729088220266,-6.748626911505561,0 107.6729140809001,-6.749368642554691,0 107.6724821649488,-6.749866664403526,0 107.6722511537415,-6.750410027933156,0 107.6718892397178,-6.7504786861651,0 107.6714343701362,-6.7505936377834,0 107.6711363277475,-6.751068399611411,0 107.6713578112503,-6.751584707087253,0 107.6711526884087,-6.75221827656528,0 107.6709265718749,-6.752716255291404,0 107.6705458090003,-6.753471682038378,0 107.6700531832004,-6.753886478274893,0 107.6693541841654,-6.75457462405317,0 107.6687018354684,-6.755230159699984,0 107.6677157128068,-6.755864369553686,0 107.6670624864455,-6.75763222958534,0 107.6660574354445,-6.758918824373157,0 107.6652329537071,-6.759625829448444,0 107.664223521947,-6.760335698111519,0 107.6634610020982,-6.761516422318449,0 107.6633495326088,-6.762465577274704,0 107.6635580324563,-6.763767952165041,0 107.6643632045399,-6.764307134290315,0 107.6651101030736,-6.764103593938636,0 107.6660231617632,-6.763904588576482,0 107.6665898121862,-6.763556566153597,0 107.6681236112293,-6.764267329972685,0 107.6687365574785,-6.765746585080711,0 107.6693289183619,-6.766449781925754,0 107.6704966935926,-6.766124612488278,0 107.6712704011756,-6.765644719728366,0 107.6729767341851,-6.764095860724055,0 107.6754147383496,-6.76499333746182,0 107.6770767984055,-6.765454713044022,0 107.6783955836826,-6.767101243756324,0 107.6800239836651,-6.766833785663584,0 107.6813393360408,-6.765641568994131,0 107.6839465859032,-6.764764706324125,0 107.6850277844652,-6.763812228986819,0 107.6866431276139,-6.762392645928452,0 107.6864053964152,-6.760724829492402,0 107.6873090925169,-6.75889860813558,0 107.6892901216451,-6.758229826636449,0 107.6904856648518,-6.758002729320872,0 107.6917852139243,-6.757002169709241,0 107.6929989374015,-6.755707897634276,0 107.6934140041446,-6.754117998256842,0 107.6936550677909,-6.751363614200383,0 107.6974528743853,-6.748950209749964,0 107.697968266915,-6.747549494549148,0 107.6979599698171,-6.744987436118738,0 107.6993118676222,-6.743554903155036,0 107.6998822468226,-6.742117329093542,0 107.7012585625693,-6.740959340840751,0 107.7007792619304,-6.739838460173053,0 107.6994250235395,-6.740631386012275,0 107.6975784800319,-6.742062874823049,0 107.6955663419097,-6.742893105049326,0 107.6928563495912,-6.744067154396037,0 107.6896663900593,-6.745485774807538,0 107.6871605886171,-6.746433347239498,0 107.6851279306108,-6.746862337305959,0 107.68324308184,-6.746099211668038,0 107.6823290398615,-6.745507278864408,0 107.681165657737,-6.745296232853111,0 107.6803250861316,-6.744422970099071,0 107.6799056880576,-6.743399633083848,0 107.679163865066,-6.742975383950215,0 107.6781543075091,-6.743132676401937,0 107.6771582628403,-6.742872671405749,0 107.6766096872985,-6.742476224531372,0 107.6762208705919,-6.742008944186424,0 107.6762993412791,-6.741279889823555,0 107.6764346357933,-6.740525916835995,0 107.6765435805975,-6.739700099234276,0 107.677350405641,-6.738985191624251,0 107.6769466721226,-6.738154194529258,0 107.6763651803365,-6.737689983028974,0 107.6753546116949,-6.737461736566251,0 107.6743187864804,-6.737812028319223,0 107.6731693367321,-6.738208286416999,0 107.6724962381335,-6.738476279329624,0 107.6723050229104,-6.739091487747685,0 107.6720137132513,-6.739803701788628,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gapura Cibeusi</name>
+			<LookAt>
+				<longitude>107.6744475244655</longitude>
+				<latitude>-6.74393259666033</latitude>
+				<altitude>0</altitude>
+				<heading>-44.14886725580729</heading>
+				<tilt>39.02200415350303</tilt>
+				<range>2861.314456702115</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_gate icon</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>107.6718134383274,-6.740226030425631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lahan Perhutani</name>
+			<styleUrl>#inline12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.6674250098681,-6.761373681186654,0 107.6674774506178,-6.761209046925028,0 107.6675725426813,-6.761041136321029,0 107.6676509458593,-6.760907675845865,0 107.6678253686638,-6.760782892967377,0 107.6681306061741,-6.760633832711945,0 107.668302663156,-6.760577165980085,0 107.6685381890216,-6.760502803996195,0 107.6688300448033,-6.760429241596955,0 107.6686562437306,-6.7602361368877,0 107.6685561837699,-6.760032340895751,0 107.6685059790724,-6.759786887377634,0 107.668562731302,-6.759531231618769,0 107.6686595494147,-6.759407140666886,0 107.6686918998669,-6.759173403126813,0 107.6687476840309,-6.758985719875285,0 107.6689396170579,-6.758785893917926,0 107.6691237920833,-6.758690231588005,0 107.6692128711243,-6.75846501772284,0 107.6693446050689,-6.758270215769743,0 107.6694097688261,-6.758112668043652,0 107.6696264455747,-6.757980547656973,0 107.6697496515371,-6.757836221035051,0 107.6699781584014,-6.757772492697441,0 107.6702112625691,-6.757710535788326,0 107.6703965702025,-6.757549415286914,0 107.6705129714107,-6.757425499811231,0 107.6703497185233,-6.757361043449541,0 107.6701806762366,-6.757350908956219,0 107.6699671918083,-6.757429117929411,0 107.6697645485881,-6.757455099982556,0 107.6695305006439,-6.757395962820856,0 107.6693508052342,-6.757251350923424,0 107.6691583905226,-6.757149248204176,0 107.6690341096681,-6.757008214151747,0 107.6690959894041,-6.756834285192088,0 107.6692930988408,-6.756905509615756,0 107.6694328452226,-6.75696206638404,0 107.6695763192221,-6.757019913855765,0 107.6698133421861,-6.757057393974936,0 107.6699363813119,-6.756933552631147,0 107.6701151594728,-6.756823971697951,0 107.6702510541113,-6.756680533252369,0 107.6704434359923,-6.756651516142864,0 107.6704990258261,-6.756499750923183,0 107.6707307507605,-6.756437362696548,0 107.6708103753575,-6.756270443921366,0 107.6710635564969,-6.756192634735331,0 107.6711424620684,-6.756058888818387,0 107.6713112245986,-6.755904502896623,0 107.6714615827034,-6.755801131762413,0 107.6717301482976,-6.755773264543274,0 107.6719445626407,-6.755731111935009,0 107.6721075147172,-6.755675737549488,0 107.6723237118546,-6.755668806154498,0 107.67244035868,-6.75573686470924,0 107.6725423102045,-6.755630145882406,0 107.6727179148302,-6.755522223487897,0 107.6728480074024,-6.755403767268994,0 107.6730004284811,-6.755270713327047,0 107.6730814560521,-6.755078123003716,0 107.6732373746749,-6.754856654138293,0 107.6733805922276,-6.754688680803794,0 107.6734383626896,-6.754507320640736,0 107.6735551495325,-6.754349423586465,0 107.6737487759392,-6.754291782199654,0 107.6739361273592,-6.754195582991572,0 107.6740457516576,-6.754026708464731,0 107.6737908533636,-6.75402771902675,0 107.6735712815253,-6.754028589372881,0 107.6733141628193,-6.754029835481243,0 107.6730569489688,-6.754126384822747,0 107.6729084457809,-6.754156429422128,0 107.6727411697514,-6.75397124079025,0 107.672661305606,-6.753698301452409,0 107.6727577802431,-6.75355131585011,0 107.6727870167276,-6.753306845659806,0 107.6728308916707,-6.753106301913953,0 107.6729076966749,-6.75286105424162,0 107.6731217596786,-6.752673229295974,0 107.6732973924501,-6.752447938325672,0 107.6735431691817,-6.75254184271239,0 107.6738890137051,-6.752589154690438,0 107.6742488372522,-6.752617096132521,0 107.6745258488159,-6.752566576456974,0 107.6747271984669,-6.752514393304382,0 107.6749067572935,-6.752367894485951,0 107.6750566658012,-6.752228176042991,0 107.6752523273792,-6.752027173357698,0 107.6754729815755,-6.751925159022441,0 107.6757048136138,-6.751871873096795,0 107.6760220176182,-6.75198009055708,0 107.676330398336,-6.751972800458056,0 107.6765176199578,-6.752096362867825,0 107.6767367058851,-6.751850861261808,0 107.6768490413377,-6.751637309068929,0 107.6769995039372,-6.751463416222944,0 107.6770428460853,-6.751209680130928,0 107.6773186649534,-6.751324250953355,0 107.6773985434295,-6.751071568661522,0 107.6771345622393,-6.750815955765097,0 107.67725140407,-6.75056135021097,0 107.6773264591934,-6.750178335742698,0 107.6772494454914,-6.74977227611787,0 107.67723709269,-6.749391812185617,0 107.6771429590725,-6.748949025704222,0 107.6769186163094,-6.748717351271937,0 107.6766091600404,-6.748379495562983,0 107.676540951571,-6.747951558817719,0 107.6763023456606,-6.747609026277125,0 107.6760687308606,-6.747367681850191,0 107.6758768292053,-6.747354010671105,0 107.6755354266716,-6.747471485154708,0 107.6753915762403,-6.747547588417275,0 107.6752937756688,-6.747789220386531,0 107.6752995908324,-6.748007478762458,0 107.6753568695751,-6.74824836047841,0 107.6750669560734,-6.748324822438887,0 107.6748148549298,-6.748380961862764,0 107.6746291502842,-6.748418113100887,0 107.6744337246718,-6.748561542585929,0 107.6744834673018,-6.748732833865745,0 107.6741256227487,-6.748910914164092,0 107.6740797004006,-6.749382617720761,0 107.6737880851516,-6.749563706519648,0 107.6736999425648,-6.749761088380132,0 107.6734268405609,-6.750000706219375,0 107.6730372507421,-6.750040355998438,0 107.6727953456289,-6.750020173717014,0 107.6726614019914,-6.7498555183034,0 107.6724552831549,-6.749900964335264,0 107.672368789869,-6.750326678553122,0 107.6721272076564,-6.750496746657997,0 107.6717388688913,-6.750500263066193,0 107.6715287427105,-6.750730604529457,0 107.6714470304965,-6.751004592149507,0 107.6713453990112,-6.751227133307852,0 107.6713798826323,-6.751436309994799,0 107.671431395454,-6.751643026652341,0 107.6712331646354,-6.751928213711112,0 107.6712285952717,-6.75216659692591,0 107.6711223048745,-6.752390109967269,0 107.6710623665899,-6.752636168967558,0 107.6709501517427,-6.752969716216322,0 107.6707652754191,-6.753127576318039,0 107.6704905646417,-6.75343508345829,0 107.6702956945732,-6.753652755283111,0 107.6698609839336,-6.754131555596861,0 107.6695781391269,-6.754513941649181,0 107.6692134254021,-6.75483519707211,0 107.6688769910497,-6.75509576610155,0 107.668498904642,-6.755458352594731,0 107.6681978944699,-6.755598314967708,0 107.6678950222099,-6.755920274762779,0 107.6676637579399,-6.756075160492348,0 107.6675104145589,-6.756347475293797,0 107.6674064354633,-6.756774762598714,0 107.6671914219986,-6.757094130193564,0 107.6670539036808,-6.757460207124018,0 107.6669239169199,-6.758021360065707,0 107.6667836510519,-6.758395739816931,0 107.6660815027,-6.759046867344462,0 107.6652994758423,-6.75952787599948,0 107.664940555477,-6.759851073393641,0 107.6645774650563,-6.760131425436701,0 107.6643320863379,-6.760395339697218,0 107.6641997585884,-6.760665618607062,0 107.6639098664267,-6.760983969348595,0 107.6637889884947,-6.761199285797811,0 107.6636524304485,-6.761514234684016,0 107.6635071925804,-6.761892476757071,0 107.6634725273797,-6.762126286121462,0 107.6634836885417,-6.762529379743617,0 107.6635649713491,-6.762888892377459,0 107.6636765198181,-6.763197459177064,0 107.6638253433844,-6.763473868278105,0 107.6639270202696,-6.763702707678172,0 107.6641159039354,-6.764010594967664,0 107.6646201982255,-6.764258121955026,0 107.6650463451165,-6.764142036049014,0 107.6654589377046,-6.76397473184156,0 107.6658657918254,-6.763897154631748,0 107.6662004220027,-6.763790790215638,0 107.6667850165937,-6.763719412942121,0 107.6669859761098,-6.763821586687873,0 107.6671655411958,-6.76393073760562,0 107.6674578334735,-6.764112976560377,0 107.6677992607597,-6.764257397405562,0 107.6680021865476,-6.764549743370337,0 107.668462630175,-6.76491918945943,0 107.6688812004596,-6.765316411978515,0 107.6687540219076,-6.765565202308267,0 107.6689257214414,-6.765942286598805,0 107.6692526434405,-6.766132123815916,0 107.6694047821935,-6.766366860430494,0 107.6699815297977,-6.76622169799912,0 107.6703180218156,-6.766177001401903,0 107.670814705197,-6.766001432716841,0 107.6712120397478,-6.765679790579859,0 107.6713812161424,-6.765564806548122,0 107.6715437794708,-6.765355025279388,0 107.6718154113632,-6.765185039925395,0 107.671995271386,-6.764920368746762,0 107.672294824505,-6.764742500852774,0 107.6726352953292,-6.764459246938173,0 107.6728653580713,-6.764324849474868,0 107.6732349097324,-6.764485509855867,0 107.6736389715962,-6.764801603120497,0 107.673953171397,-6.765006333693699,0 107.6744078616525,-6.765366716125438,0 107.6752289305051,-6.76517116022076,0 107.6759668698164,-6.765207021396862,0 107.6764902356885,-6.765228326763976,0 107.676997720253,-6.765387621642899,0 107.6772131821955,-6.765737221953425,0 107.677652764013,-6.766301031402533,0 107.6785225000057,-6.767008682373702,0 107.6792554688779,-6.76700763810461,0 107.6800637123784,-6.766692049127037,0 107.6810207562178,-6.766002596421202,0 107.6820185316141,-6.765397240418069,0 107.6831565461605,-6.765055562784388,0 107.6841321169328,-6.764747620879288,0 107.6849368892621,-6.764211043885416,0 107.6853943661937,-6.763792209238489,0 107.6857157953748,-6.763593642166636,0 107.6858957040235,-6.763135110847971,0 107.6863235701048,-6.76276448194087,0 107.6864864094724,-6.762490464009836,0 107.6864561747968,-6.76206121454628,0 107.6864410242846,-6.761631235263427,0 107.6864773657247,-6.76121710642154,0 107.6865827185679,-6.760465842224608,0 107.6868391665996,-6.760005604937303,0 107.6875110228465,-6.758999422271969,0 107.6878656449698,-6.758749329373339,0 107.6884363454251,-6.75848726015084,0 107.6891100505344,-6.758219910264765,0 107.6899778496843,-6.758103707289098,0 107.6908794297513,-6.757991373999381,0 107.6913604908266,-6.757458469423714,0 107.6921992844976,-6.756169607884702,0 107.6928469016064,-6.755557134747815,0 107.6931888726303,-6.755098834750307,0 107.6932808754623,-6.754409257054602,0 107.6933320037117,-6.75295701959259,0 107.6935646056884,-6.75202279043452,0 107.6942435390799,-6.751175753141887,0 107.6953961433483,-6.749889162313862,0 107.6962702005851,-6.74943504193536,0 107.696993265904,-6.749035453571421,0 107.6975414698879,-6.748323641561557,0 107.6970923345014,-6.748203157368753,0 107.6964840943734,-6.748125691875453,0 107.6958688775303,-6.748923368692504,0 107.6945832804695,-6.749910731846535,0 107.6946052136228,-6.748911062300668,0 107.6945687417192,-6.74816728763192,0 107.6939505304219,-6.748958435621409,0 107.6927513835186,-6.749286801669856,0 107.6931675654992,-6.748429333742734,0 107.6937298495023,-6.747458162139863,0 107.6947013652124,-6.74696774780145,0 107.6957907365495,-6.74613544620381,0 107.6963292178153,-6.746238755115704,0 107.6969901638333,-6.745460415269663,0 107.6960989770074,-6.745648134234019,0 107.6960138274553,-6.744909733934416,0 107.6971635600335,-6.744202627479111,0 107.6969998455052,-6.743616366146664,0 107.6961805571838,-6.743748661535794,0 107.6955009398965,-6.743637740984293,0 107.6951399830901,-6.743003280457467,0 107.6936023134213,-6.743678049491977,0 107.6926315228482,-6.744501209154143,0 107.6919231814073,-6.744401452928391,0 107.6907152532183,-6.745221620027786,0 107.6895247228729,-6.745025699885652,0 107.688600709289,-6.74549903187036,0 107.6872213005144,-6.746378155837531,0 107.6860301307194,-6.747012318931628,0 107.6851411507968,-6.746570724953527,0 107.6838951468279,-6.746596905166584,0 107.683221512368,-6.74694101192561,0 107.6834166933027,-6.747509633587181,0 107.6839783680087,-6.748146328845652,0 107.68455774072,-6.747910746772747,0 107.6845756704343,-6.748362927939434,0 107.6852746656541,-6.748541667602954,0 107.6859976151575,-6.7486391365267,0 107.6856905701425,-6.749513108615785,0 107.6855518941618,-6.75051419807652,0 107.685152876422,-6.749799375665837,0 107.6845266158506,-6.749814886951996,0 107.6850634526227,-6.75058300383289,0 107.6850189611809,-6.751142385517655,0 107.6855697278716,-6.7512741286482,0 107.6861559372849,-6.751167733645422,0 107.6864390634561,-6.751538367593815,0 107.6864863297477,-6.752229979638881,0 107.6861222965221,-6.752818306842774,0 107.6861985435614,-6.753381952778068,0 107.6852531436713,-6.752837239373006,0 107.6855227572071,-6.75216601900978,0 107.6844442550828,-6.751897630899699,0 107.6838212971105,-6.751550490393409,0 107.6831291240205,-6.751135461997636,0 107.6829450258056,-6.750312575699383,0 107.6825864438215,-6.749629638231654,0 107.68216989724,-6.748770736126161,0 107.6823890490933,-6.748089245903204,0 107.6818414184866,-6.748333002291565,0 107.6811929099375,-6.748450091217837,0 107.6814437289114,-6.749436764673121,0 107.6810792377458,-6.750399645902982,0 107.6804359745487,-6.750660971611196,0 107.6800870864783,-6.751077681527119,0 107.6796267224599,-6.751692062585418,0 107.6801463781624,-6.75263707142827,0 107.6804191810784,-6.753419615510867,0 107.6800175774354,-6.753436507629359,0 107.6795550968381,-6.753454908198973,0 107.6792774910218,-6.753895363272101,0 107.6793787503284,-6.754385938670594,0 107.6798401690447,-6.755039437224686,0 107.6797804078642,-6.755828186736332,0 107.6800475551359,-6.756828336195618,0 107.6802489155606,-6.757749533014132,0 107.6799019896805,-6.758411562158482,0 107.6791896494842,-6.758449409697638,0 107.6783969497983,-6.75811680995139,0 107.6787229238777,-6.757638002477631,0 107.6781092705912,-6.757585067596033,0 107.6778019651808,-6.757678481572796,0 107.6778680611168,-6.757158530683271,0 107.6782782996287,-6.756525501831835,0 107.6783342734766,-6.755480950196744,0 107.6778939868877,-6.755347168024948,0 107.6771774778385,-6.754914903460016,0 107.6766552293255,-6.754325227755881,0 107.6765415297172,-6.754622517137022,0 107.6769414688784,-6.755045124176717,0 107.6765104810433,-6.755311484637264,0 107.6761169485793,-6.755644562807004,0 107.6759956736084,-6.754891676504308,0 107.6755646282633,-6.755041012892161,0 107.6752652911789,-6.755298821581106,0 107.6749945361028,-6.755183989795516,0 107.6747872634528,-6.75527641946243,0 107.6743335543423,-6.755790838521837,0 107.6743672931282,-6.756075202458583,0 107.6740796316629,-6.756430299360238,0 107.6738100813922,-6.756709828458559,0 107.6735469174628,-6.756750406240159,0 107.6735759496759,-6.757191358755922,0 107.6736521545513,-6.757598757398275,0 107.67379511189,-6.757965810450351,0 107.6738199708471,-6.758318579377824,0 107.6741970522778,-6.758507404947336,0 107.6744124032797,-6.758494252891402,0 107.6744167153656,-6.75870725088805,0 107.6743382948869,-6.758968648404142,0 107.6742788312977,-6.759110922725659,0 107.6741260670431,-6.7594133472225,0 107.6739819175786,-6.759615795374255,0 107.6739441793876,-6.759813164355136,0 107.6738286930442,-6.760010500094036,0 107.6737202286981,-6.760136086724507,0 107.6735297150204,-6.760223053798734,0 107.6734669221199,-6.760326933389717,0 107.67329704343,-6.760419990434717,0 107.6729001524449,-6.760386581213618,0 107.6727635933432,-6.760108284925028,0 107.6726718455352,-6.759878745233211,0 107.6727534450322,-6.759776282188418,0 107.6728432026652,-6.759552664495548,0 107.6729452207556,-6.759336094925188,0 107.6728804209474,-6.759028088108504,0 107.6728782321725,-6.758786746637024,0 107.6729125443112,-6.75846700355646,0 107.6728333564014,-6.758158960805536,0 107.6727104560692,-6.757818238066917,0 107.6725287454381,-6.757307006223308,0 107.6722565972981,-6.756997395265357,0 107.67190957399,-6.757190291867535,0 107.6716309861888,-6.757473752044465,0 107.6713258956007,-6.757554370118735,0 107.6710128347586,-6.757627447627362,0 107.6709646539823,-6.758235409784049,0 107.670782007436,-6.758218990312612,0 107.6705951768576,-6.758422135759493,0 107.6702741803699,-6.758994580313221,0 107.6697394986773,-6.759207876535128,0 107.6696540017784,-6.759850523834565,0 107.6696978248815,-6.760139199271576,0 107.6695897103535,-6.76053870175162,0 107.6692958316922,-6.760720557262777,0 107.6691794333171,-6.760821774751295,0 107.6689542175983,-6.761068556971447,0 107.6687134151961,-6.76118919863466,0 107.6684081765953,-6.761331456652673,0 107.668166150265,-6.761452955600248,0 107.6679526507807,-6.761496947703096,0 107.6677821397341,-6.76149169433469,0 107.6674250098681,-6.761373681186654,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lahan Perhutani</name>
+			<description>Milik           : Perhutani
+Luas Area : 437 Hektare</description>
+			<LookAt>
+				<longitude>107.6850215281589</longitude>
+				<latitude>-6.753227414638124</latitude>
+				<altitude>0</altitude>
+				<heading>-6.616996585813549</heading>
+				<tilt>10.22691985206315</tilt>
+				<range>6080.112281772268</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_land icon</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>107.6821255873665,-6.761494238666306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RW 2</name>
+			<description>Luas Area             : 5.63 Hektare
+Jumlah Penduduk :</description>
+			<LookAt>
+				<longitude>107.6762374061346</longitude>
+				<latitude>-6.745031104372383</latitude>
+				<altitude>0</altitude>
+				<heading>-86.48582680081726</heading>
+				<tilt>33.14534146299303</tilt>
+				<range>1140.774819153013</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_village land  icon</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>107.6767358760749,-6.747100644711788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TMB Cibeusi</name>
+			<description>Milik          : TBM Sari Asih
+Pengelola : Bpk. Ajiji</description>
+			<LookAt>
+				<longitude>107.6758316061341</longitude>
+				<latitude>-6.744402661800518</latitude>
+				<altitude>0</altitude>
+				<heading>-86.48577910669657</heading>
+				<tilt>33.14534418344563</tilt>
+				<range>1141.328764073008</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_library-icon</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>107.6758037040393,-6.746530483009832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dusun 2</name>
+			<styleUrl>#inline19</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.6764308932248,-6.747588987413312,0 107.6764797588753,-6.747829166258691,0 107.6766283240042,-6.748069442492844,0 107.6767172617876,-6.748272652313552,0 107.6768375512082,-6.748461368254666,0 107.6770146165629,-6.748648343759695,0 107.6771195092987,-6.74882844552662,0 107.6773092336548,-6.748883934821143,0 107.6774719618568,-6.748802980813639,0 107.6775876941604,-6.748636921932675,0 107.6776487163786,-6.748469382397949,0 107.677719978453,-6.748290231885865,0 107.6778404105763,-6.748058114218899,0 107.6778786640229,-6.747846487770715,0 107.67779349,-6.747682392385309,0 107.677781392383,-6.747370461406256,0 107.6777759479859,-6.747187066250048,0 107.6777150629712,-6.747009125003451,0 107.6776361633627,-6.746915105150988,0 107.6775716191617,-6.746766815604561,0 107.677506747615,-6.746606184406813,0 107.6773975991002,-6.74648339606799,0 107.6772846675902,-6.746436947531034,0 107.6770983094641,-6.746336166911635,0 107.6770556081462,-6.746206052032831,0 107.6769161548738,-6.746132014426108,0 107.6767757077716,-6.746126469239924,0 107.6766477769925,-6.746180589074165,0 107.6766334102498,-6.746329528302524,0 107.676476249947,-6.746440253664941,0 107.6764039786342,-6.746653925554216,0 107.6762586435393,-6.746768714703047,0 107.6760969911952,-6.746871806798672,0 107.675936879829,-6.747023729818344,0 107.6757854507283,-6.747012140990398,0 107.6756484410707,-6.747013612681897,0 107.6755973307987,-6.746829986805087,0 107.6757353488438,-6.746650525493669,0 107.6759316173364,-6.746442876127909,0 107.6758701840091,-6.746257352148001,0 107.6758389742691,-6.746109939243566,0 107.6757016895517,-6.746202682644753,0 107.6754961450522,-6.746203818635836,0 107.6753323811682,-6.746111705885971,0 107.675177638642,-6.746131678814687,0 107.6750089955964,-6.746138515573758,0 107.6749353028514,-6.745994133287233,0 107.6749072019363,-6.745802250679315,0 107.6749906984855,-6.745610891720654,0 107.6747715596633,-6.745633864702948,0 107.6746777211507,-6.74584989316258,0 107.6745526583068,-6.745962388013362,0 107.6745650880062,-6.746154245492569,0 107.6747341731946,-6.74638400037675,0 107.6748351165949,-6.746567209486923,0 107.6749414594429,-6.746799007752342,0 107.6748598327355,-6.746990132519022,0 107.6749308023533,-6.747167633499435,0 107.6750508806433,-6.747407389715387,0 107.6749184903169,-6.747497667965413,0 107.6752751763217,-6.747624201334878,0 107.6756182622167,-6.747392287315043,0 107.6758910265613,-6.747385090413064,0 107.6761867493119,-6.747437634445274,0 107.6764308932248,-6.747588987413312,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lahan GG</name>
+			<description>Milik          : GG
+Luas Area: 5.97 Hektare</description>
+			<LookAt>
+				<longitude>107.6765291711483</longitude>
+				<latitude>-6.745937585680633</latitude>
+				<altitude>0</altitude>
+				<heading>-83.99766840679826</heading>
+				<tilt>45.77352046742717</tilt>
+				<range>1447.047278882827</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_rice_icon</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>107.673878355304,-6.748094417166091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Desa Cibeusi</name>
+			<description>Luas Area            : 651 hektare
+Jumlah Penduduk:
+Batas Utara         : Ciater
+Batas Selatan      : Kab. Bandung Barat, Cikole
+Batas Timur         : Desa Cibitung, Kec. Cisalak
+Batas Barat         : Desa Nagrak</description>
+			<LookAt>
+				<longitude>107.6790948117358</longitude>
+				<latitude>-6.755551584018561</latitude>
+				<altitude>0</altitude>
+				<heading>-14.3298970092043</heading>
+				<tilt>0</tilt>
+				<range>6034.619137397273</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_PlanningIcon</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>107.6827228110493,-6.753621687049061,2.009988205222507</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lahan GG</name>
+			<styleUrl>#inline13</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.67260279834,-6.749762268999338,0 107.6727156267073,-6.749889984876577,0 107.672788702105,-6.749983755915167,0 107.67293854214,-6.750035103093653,0 107.6731345708112,-6.749988992824209,0 107.6734316877114,-6.749919103835864,0 107.6735542235491,-6.749752522634622,0 107.6736428440189,-6.749567176194908,0 107.6737146670955,-6.749397295565188,0 107.6738353507267,-6.749228119592352,0 107.6739646736814,-6.749093243793541,0 107.6741288511588,-6.748810243532565,0 107.6744692622252,-6.748579602976843,0 107.6746461123662,-6.748443026137272,0 107.6749652558177,-6.748340365689205,0 107.6753077376068,-6.748165817020963,0 107.6752719398311,-6.747980892261571,0 107.6752807021145,-6.747678282336619,0 107.6754031669414,-6.74762709848762,0 107.6749760164849,-6.747802163522093,0 107.6747742005038,-6.74790222162721,0 107.6747374886152,-6.747784602319651,0 107.6747768910267,-6.747656422169653,0 107.67481664752,-6.747516047669331,0 107.6748388421599,-6.747377568111382,0 107.6748452375758,-6.747190701451928,0 107.6748488901166,-6.747065971903521,0 107.6748879273292,-6.746938362146258,0 107.6748755460623,-6.746751882877909,0 107.6748005758102,-6.746513238617268,0 107.6746161099426,-6.746326986072559,0 107.6744352223605,-6.746125079175223,0 107.6742837017224,-6.746114092752289,0 107.6742108599114,-6.746180898977385,0 107.6742048245494,-6.746351072803474,0 107.6742102008884,-6.746521374386161,0 107.6739615168874,-6.746700633279627,0 107.6738969265625,-6.746901508854864,0 107.6737182318171,-6.746989661060485,0 107.6735882369324,-6.747103139850363,0 107.6734274621587,-6.747112036986564,0 107.6732736039186,-6.747162360825434,0 107.6732711738957,-6.747513631869646,0 107.6730842317445,-6.747790153058739,0 107.6730401686827,-6.748031009882043,0 107.6729611007085,-6.748275830337625,0 107.6728971664082,-6.748503295186982,0 107.6728805510159,-6.748643073229486,0 107.672860603747,-6.748810871234594,0 107.6729435377068,-6.749094899889808,0 107.6729670845392,-6.749243442653184,0 107.6728733700936,-6.749323522152302,0 107.6728493675954,-6.74942898957991,0 107.67260279834,-6.749762268999338,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lahan Warga</name>
+			<styleUrl>#inline20</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							107.6756289439252,-6.746889367802222,0 107.675650840547,-6.746970188257624,0 107.6757770579472,-6.747006016948034,0 107.675922709626,-6.746911586926307,0 107.6759686227573,-6.746756357942711,0 107.6760097330372,-6.746634379760816,0 107.6762185634538,-6.746508125413762,0 107.6762393092452,-6.74645598659423,0 107.6762393986014,-6.746364036019438,0 107.6763500242609,-6.746216235199837,0 107.6763955111256,-6.746168164546791,0 107.6764466883403,-6.746097253829251,0 107.6765456145988,-6.745952255148985,0 107.6766915911582,-6.745757920809188,0 107.6767825262863,-6.745668924438766,0 107.6768061492395,-6.745587970231886,0 107.6767253305729,-6.74556663382669,0 107.6766726621974,-6.745487526950495,0 107.6766784943342,-6.745406403514772,0 107.676638771928,-6.745288668227176,0 107.6766415101022,-6.745189274254271,0 107.6765724774025,-6.745132423228505,0 107.6764474316472,-6.745171695266643,0 107.6762864037614,-6.745277108812486,0 107.6760624635022,-6.745327851890122,0 107.6759772364769,-6.745234021274729,0 107.6760839437727,-6.745124642484077,0 107.6761079331842,-6.745068845059233,0 107.6761059799175,-6.744992939378802,0 107.676053596781,-6.744874913524572,0 107.6759245103277,-6.744929974403541,0 107.6756624966418,-6.745079609321353,0 107.6754363119949,-6.745171601916035,0 107.675187098467,-6.745302830617362,0 107.6749023559491,-6.745399788438227,0 107.6747840384082,-6.745529690359375,0 107.6748668955682,-6.745618699554291,0 107.6749837027363,-6.74559142449175,0 107.6749616609315,-6.745686087763586,0 107.6749595377066,-6.745798796810822,0 107.6749089164541,-6.745879669760282,0 107.6749719193171,-6.745971101813391,0 107.6750227382415,-6.746057329663981,0 107.6751097979824,-6.746113251095149,0 107.6752510436118,-6.746115986570488,0 107.6753599590417,-6.74611388943919,0 107.6754784463843,-6.746168564832879,0 107.6755762480347,-6.746198678173398,0 107.6756757280087,-6.746181409850833,0 107.6758331103814,-6.74615487298562,0 107.6759060917821,-6.746220708751065,0 107.6759301270383,-6.74628411569896,0 107.6759250753204,-6.746403055843196,0 107.6759083225027,-6.746476297798317,0 107.6758066212923,-6.746647862706644,0 107.6757294440928,-6.746735952665171,0 107.6756289439252,-6.746889367802222,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lahan Warga</name>
+			<description>Milik          : Warga
+Luas Area: 2.35 Hektare</description>
+			<LookAt>
+				<longitude>107.6756033026634</longitude>
+				<latitude>-6.744015355118354</latitude>
+				<altitude>0</altitude>
+				<heading>-98.3442308678047</heading>
+				<tilt>56.68014803945897</tilt>
+				<range>759.7547891713128</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_rice_icon1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>107.675939816898,-6.745791652252875,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
